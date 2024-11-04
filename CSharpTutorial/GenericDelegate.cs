@@ -89,6 +89,9 @@ namespace CSharpTutorial
                 Console.WriteLine($"{name}");
             };
             lamdaDelegate.Invoke("Sheyi");
+
+
+
         }
     }
 }
